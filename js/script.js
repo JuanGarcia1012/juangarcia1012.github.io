@@ -26,8 +26,8 @@ $(document).ready(function() {
 	});
 	
 	var typed = new Typed(".typed", {
-		strings: ["Product Developer.", "Graduate.", "Operations Research.", "Information Engineering.", "Data Scientist.", "Basketball Fanatic."],
-		typeSpeed: 80,
+		strings: ["Product Developer.", "Cornell Graduate.", "Operations Research.", "Information Engineering.", "Data Scientist.", "Basketball Fanatic."],
+		typeSpeed: 85,
 		loop: true,
 		startDelay: 1000,
 		showCursor: false
