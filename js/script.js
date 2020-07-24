@@ -26,7 +26,7 @@ $(document).ready(function() {
 	});
 	
 	var typed = new Typed(".typed", {
-		strings: ["Product Developer.", "Cornell Graduate.", "Operations Research.", "Information Engineering.", "Data Analyst."],
+		strings: ["Product Developer.", "Cornell Graduate.", "Operations Research.", "Information Engineering.", "Data Scientist.", "Basketball Fanatic."],
 		typeSpeed: 70,
 		loop: true,
 		startDelay: 1000,
